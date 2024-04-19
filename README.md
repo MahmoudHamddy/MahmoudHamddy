@@ -11,7 +11,7 @@
 <img  height="175" src="https://github-readme-stats.vercel.app/api?username=MahmoudHamddy&count_private=true&show_icons=true&theme=dark&hide_border=true" >
 </div>
 <div align="center">
-![](https://github-readme-stats.vercel.app/api/top-langs/%20username=MahmoudHamddy&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/%20username=MahmoudHamddy&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&hide_border=true">
 </div>
 <!--
 **MahmoudHamddy/MahmoudHamddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
