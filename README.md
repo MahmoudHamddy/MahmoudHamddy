@@ -28,6 +28,7 @@
   <code title="QT"><img src="https://img.shields.io/badge/Qt-%23217346.svg?style=flat&logo=Qt&logoColor=white"/></code>
   <code title="BootStrap"><img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/></code>
 </div>
+
 ## 🤖 AI:
 <div align = "center">
   <code title="Keras"><img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white"/></code>
@@ -56,7 +57,7 @@
 <div align="center">
     <a herf="https://www.linkedin.com/in/mahmoud-hamdy-a544761b7/"><img alt="Mahmoud Hamdy" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
     <a herf="mailto:mahmoudhamddy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-    <a herf="https://img.shields.io/badge/Kaggle-035a7d?style=flat&logo=kaggle&logoColor=white"><img src="https://www.kaggle.com/mahmoudhamddy"/></a>
+    <a herf="https://www.kaggle.com/mahmoudhamddy"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=flat&logo=kaggle&logoColor=white"/></a>
   </div>
 <!--
 **MahmoudHamddy/MahmoudHamddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
