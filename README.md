@@ -8,8 +8,9 @@
 
 ## 💻 Pragramming Languages:
   <div align="center>
-  - ### <code title="Python">
+  - ### <code title="Python">img<src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=yellow&style=flat"</code>
   </div>
+  
 ## 📊 GitHub Statistics:
   <div align="center">
   <img  height="175" src="https://github-readme-stats.vercel.app/api?username=MahmoudHamddy&count_private=true&show_icons=true&theme=dark&hide_border=true"/>
