@@ -13,7 +13,8 @@
   <br/>
   <div align="center">
   <!-- <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/%20username=MahmoudHamddy&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"> -->
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MahmoudHamddy&theme=default"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MahmoudHamddy&theme=dark"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MahmoudHamddy&theme=dark"/>
   </div>
 <!--
 **MahmoudHamddy/MahmoudHamddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
