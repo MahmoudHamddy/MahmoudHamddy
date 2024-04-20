@@ -8,9 +8,9 @@
 
 ## 💻 Pragramming Languages:
   <div align="center>
-  - ### <code title="Python"><img src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=yellow&style=flat"/></code> <br/>
-  - ### <code title="C++"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white"/></code> <br/>
-  - ### <code title="C"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white"/></code>code> <br/>
+  <code title="Python"><img src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=yellow&style=flat"/></code> 
+  <code title="C++"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white"/></code> <br/>
+  <code title="C"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white"/></code>code> <br/>
   
   </div>
   
