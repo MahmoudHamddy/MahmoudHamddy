@@ -9,10 +9,10 @@
 
 ## 💻 Pragramming Languages:
   <div align="center>
-  <code title="Python"><img src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=yellow&style=flat"/></code> 
+  <code title="Python"><img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"/></code> 
   <code title="C++"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white"/></code>
   <code title="C"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white"/></code>
-  <code title="C"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"/></code>
+  <code title="Arduino"><img src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/></code>
   
 ## 🌐 Web Development:
 <div align = "center">
@@ -24,9 +24,12 @@
 </div>
 
 ## ✨ Additional libraries and frameworks:
+<div align = "center">
   <code title="QT"><img src="https://img.shields.io/badge/Qt-%23217346.svg?style=flat&logo=Qt&logoColor=white"/></code>
   <code title="BootStrap"><img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/></code>
+</div>
 ## 🤖 AI:
+<div align = "center">
   <code title="Keras"><img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white"/></code>
   <code title="MatPLotLib"><img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black"/></code>
   <code title="NumPy"><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white"/></code>
@@ -36,7 +39,6 @@
   <code title="ScikitLearn"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white"/></code>
   <code title="SciPy"><img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white"/></code>
   <code title="TensorFlow"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white"/></code>
-  
   </div>
   
 ## 📊 GitHub Statistics:
@@ -49,6 +51,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MahmoudHamddy&theme=dark"/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MahmoudHamddy&theme=dark"/>
   </div>
+  
 ## 📫 My Contacts:
 <div align="center">
     <a herf="https://www.linkedin.com/in/mahmoud-hamdy-a544761b7/"><img alt="Mahmoud Hamdy" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
