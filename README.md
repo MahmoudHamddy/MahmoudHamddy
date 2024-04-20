@@ -6,6 +6,10 @@
   - #### 🤖 I am studying Deep Learning and Computer Vision
   - #### 📫 How to reach me: <a href="mailto:Mahmoudhamddy@gmail.com">Mail</a>
 
+## 💻 Pragramming Languages:
+  <div align="center>
+  - ### <code title="Python">
+  </div>
 ## 📊 GitHub Statistics:
   <div align="center">
   <img  height="175" src="https://github-readme-stats.vercel.app/api?username=MahmoudHamddy&count_private=true&show_icons=true&theme=dark&hide_border=true"/>
