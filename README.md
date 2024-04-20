@@ -8,7 +8,7 @@
 
 ## 💻 Pragramming Languages:
   <div align="center>
-  - ### <code title="Python">img<src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=yellow&style=flat"</code>
+  - ### <code title="Python"><img src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=yellow&style=flat"/></code>
   </div>
   
 ## 📊 GitHub Statistics:
