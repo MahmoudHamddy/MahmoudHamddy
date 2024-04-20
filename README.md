@@ -6,7 +6,7 @@
   - #### 🤖 I am studying Deep Learning and Computer Vision
   - #### 📫 How to reach me: <a href="mailto:Mahmoudhamddy@gmail.com">Mail</a>
   - #### 📝 Here you can find my <a herf="https://drive.google.com/file/d/1bQhfChwgnMeIIGFqoylXNDlU0eZ7X5Uc/view?usp=sharing">Resume</a>
-  <a href="https://drive.google.com/drive/folders/135o8oFYte2oZu7lM7wBHjoYdiLtj2z0_?usp=sharing">Resume</a>
+  - #### 📝 Checkout my <a href="https://drive.google.com/drive/folders/135o8oFYte2oZu7lM7wBHjoYdiLtj2z0_?usp=sharing">Resume</a>
 
 ## 💻 Pragramming Languages:
   <div align="center>
