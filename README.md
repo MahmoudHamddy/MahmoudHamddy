@@ -2,7 +2,8 @@
 <p align="left"><img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+Mahmoud+Hamdy."/></p>
 
 ## <img align="center"  height =50px src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif"> About Me <a id = "about"></a>
-  - #### 🎓 I am a Biomedical Engineering Student at <a href="http://eng.cu.edu.eg/ar/">Faculty of Engineering Cairo University</a>
+  - #### 🎓 I am a Graduate (MSc) Biomedical Engineer at <a href="https://www.ualberta.ca/en/biomedical-engineering/index.html">University of Alberta (UoA)</a>
+  - #### 🎓 I am a Biomedical Engineering Grdauate from <a href="http://eng.cu.edu.eg/ar/">Faculty of Engineering Cairo University</a>
   - #### 🤖 I am studying Deep Learning and Computer Vision
   - #### 📫 How to reach me: <a href="mailto:Mahmoudhamddy@gmail.com">Mail</a>
   - #### 📝 Here you can find my <a href="https://drive.google.com/drive/folders/1JLcjIE4NabIv5WSxnU8dM1Bs3dgkeq7o?usp=sharing">Resume</a>  
